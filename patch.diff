@@ -1,0 +1,16 @@
+From 03105667073f9701bf9c10c4e705c101e16ecce2 Mon Sep 17 00:00:00 2001
+From: Whan <sweet.whankungz@hotmail.com>
+Date: Mon, 15 Aug 2016 10:27:49 +0700
+Subject: [PATCH] add new java
+
+---
+ java.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 java.txt
+
+diff --git a/java.txt b/java.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.8.1.windows.1
+
