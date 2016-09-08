@@ -28,7 +28,7 @@ public class LotteryFragment extends Fragment {
 
         return rootView;
     }
-
+//
 
 
 }
