@@ -12,6 +12,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.promptnow.econprice.R;
+import com.promptnow.econprice.fragment.Fragment.LotteryFragment;
 
 import java.util.Arrays;
 
@@ -46,7 +47,7 @@ public class View_date extends DialogFragment {
     };
 
     View.OnClickListener listenerOK;
-    public View_date.onSubmitAlertDialogListener mListener;
+    public onSubmitAlertDialogListener mListener;
 
     public void show(FragmentActivity activity, String s) {
         this.show(activity, s);
