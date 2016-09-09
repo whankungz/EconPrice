@@ -40,10 +40,11 @@ public class View_date extends DialogFragment {
     private String message;
 
     String[] value = new String[]{
-            "1 มิถุนายน 59",
-            "16 มิถุนายน 59",
-            "1 กรกฏาคม 59",
-            "16 กรกฏาคม 59"
+            "งวดวันที่ 1 มิถุนายน 2559",
+            "งวดวันที่ 16 มิถุนายน 2559",
+            "งวดวันที่ 1 กรกฏาคม 2559",
+            "งวดวันที่ 16 กรกฏาคม 2559",
+            "งวดวันที่ 1 กันยายน 2559"
     };
 
     View.OnClickListener listenerOK;
